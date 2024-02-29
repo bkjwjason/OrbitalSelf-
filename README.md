@@ -2,6 +2,14 @@
 
 A new Flutter project for Orbital Team self++
 
+A gamified health tracking app where users are rewarded for good healthy living habits.
+
+Do check us out here!
+
+Application showcase:
+
+https://youtu.be/FtcY5Zx-Jb4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
